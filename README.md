@@ -1,16 +1,14 @@
-### Hi there 👋
+## 👋 Hello! Welcome to my Github profile.
 
-<!--
-**Andrewdurigan/Andrewdurigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Andrew and my nickname is "Duri"!
 
-Here are some ideas to get you started:
+.🙀-I'm studying mechatronics engineering(8° semester)
+.😽Contact: e-mail(andrewdurigan3@gamil.com)
+.😸 I live in Primavera do leste -MT- Brasil
+### I'm currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+ 
+
+
+
